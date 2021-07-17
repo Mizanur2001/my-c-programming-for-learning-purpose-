@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "ADDITION.C": "cpp",
+        "CALCULETER.C": "cpp",
+        "stdio.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
